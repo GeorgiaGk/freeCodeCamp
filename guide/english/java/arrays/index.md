@@ -1,14 +1,6 @@
 ---
 title: Arrays
 ---
-<!DOCTYPE html>
-<html>
-    <body>
-        <a href="https://www.youtube.com/watch?v=eNPX2pTiaHI" target="_blank"width="480" height="853" alt+"youtube video about java">Everything you need to know about arrays
-        </a>
-    </body>
- </html>
-    
 
 # Array
 
@@ -177,3 +169,6 @@ Output:
 
 #### More Information:
 * Source: <a href='https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html' target='_blank' rel='nofollow'>Java Arrays</a>
+
+#### Complete Java on Arrays
+*Source: <a href="https://www.youtube.com/watch?v=eNPX2pTiaHI" target='_blank'>Everything you need to know about arrays</a>
